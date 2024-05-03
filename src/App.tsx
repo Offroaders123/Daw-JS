@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <>
-      <h1>hi mom :D</h1>
+      <h1>Daw-JS</h1>
       <button onclick={() => mediaRecorder.start()}>Start Recording</button>
       <button onclick={() => mediaRecorder.stop()}>Stop Recording</button>
       <audio src={audio()} controls/>

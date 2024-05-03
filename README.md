@@ -1,4 +1,4 @@
-Daw-JS
+# Daw-JS
 
 I'm curious about recording audio in the browser, and how one could maybe make a DAW or something; maybe it's not very feasible though. Even like an Electron/Tauri app or something in Node with the CLI could be kind of interesting.
 
